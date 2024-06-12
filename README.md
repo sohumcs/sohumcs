@@ -1,4 +1,4 @@
-![logo](https://github.com/sohumcs/sohumcs/blob/main/coder.gif)
+![logo](https://github.com/sohumcs/sohumcs/blob/main/coder.gif
 
 <h1 align="center">Hi 👋, I'm Sohum Chandra Srivastava</h1>
 <h3 align="center">A passionate software developer from India</h3>
