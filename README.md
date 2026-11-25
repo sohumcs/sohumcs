@@ -1,80 +1,135 @@
-<h1 align="center">Hi, I'm Sohum Chandra Srivastava 👋</h1>
-<h3 align="center">Backend & Cloud Engineer who ships AI features</h3>
- 
+<p align="center">
+  <img src="coder.gif" width="100%" alt="pixel-art desk setup" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sohumcs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Sohum+%F0%9F%91%8B;Backend+%26+Cloud+Engineer+who+ships+AI;4%C3%97+AWS+Certified+%C2%B7+CGPA+9.34;Currently+building+SPECForge+v2+%E2%9A%A1;Open+to+6-month+SDE+internships+%C2%B7+Jan+2027" alt="Typing intro" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sohumcs/"><img src="https://img.shields.io/badge/LinkedIn-sohumcs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sohum611@gmail.com"><img src="https://img.shields.io/badge/Email-sohum611%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/AWS%20Certified-x4-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <a href="mailto:sohum611@gmail.com"><img src="https://img.shields.io/badge/Mail-sohum611%40gmail.com-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/sohumcs"><img src="https://img.shields.io/badge/LeetCode-300%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sohumcs&label=VIEWS&color=3a7bff&style=for-the-badge" />
 </p>
----
- 
-### About me
- 
-- 🎓 **B.Tech CSE (AI & ML)**, SRM Institute of Science and Technology, Class of 2027 · **CGPA 9.34**
-- 💼 **Previously:** Product & Tech Intern at **Network18** (Python/SQL pipeline on 100M+ records, 35% lower query latency) · **Outlier AI** (LLM evaluation, RLHF data) · **D-Town Robotics** (UAV data automation)
-- 🔨 **Now building:** SPECForge v2, an AI platform that turns a product brief into a verified, traceable software blueprint
-- 🎯 **Open to:** 6-month SDE / Backend / Platform / GenAI internships from January 2027 (Noida, Gurgaon or remote) and 2027 full-time roles
-- ⚡ 300+ LeetCode problems solved
----
- 
-### Featured projects
- 
-| Project | What it does | Stack |
-|---|---|---|
-| **[SPECForge](#)** | Turns a project brief into a linked graph of requirements, user stories, APIs, DB entities and tests, then checks the LLM output with a rule engine plus embedding/NLI models and scores its quality | FastAPI · PostgreSQL + pgvector · Celery/Redis · React · Docker · K8s · Terraform · AWS |
-| **[RL Tactical Simulation](#)** | Multi-agent tactical game comparing Q-learning agent configurations, with analytics and performance graphs | Python · Pygame · Matplotlib |
-| **[VARI UAV Crop-Health App](#)** | Offline Android app computing crop-health indices from drone imagery with on-device inference | Kotlin · TensorFlow · OpenCV |
-| **[Auto-Clicker](#)** | Cross-platform multithreaded utility; open source, with community PRs | Python |
- 
----
- 
-### Tech stack
- 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
- 
-**Backend & data**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
- 
-**Cloud & DevOps**<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
- 
-**AI / ML**<br/>
-![LLM Apps](https://img.shields.io/badge/LLM%20Apps-412991?style=flat-square&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
- 
----
- 
-### Certifications
- 
-- AWS Certified **Machine Learning Engineer – Associate**
-- AWS Certified **Data Engineer – Associate**
-- AWS Certified **AI Practitioner**
-- AWS Certified **Cloud Practitioner**
-- Google Cloud Engineering Certificate (Career Launchpad)
----
- 
+
+<br/>
+
+## `$ whoami`
+
+```python
+class Sohum:
+    role       = "Backend & Cloud Engineer who ships AI features"
+    education  = "B.Tech CSE (AI & ML) @ SRM IST · Class of 2027 · CGPA 9.34"
+
+    shipped    = {
+        "Network18":       "Python/SQL pipeline over 100M+ records → 35% lower query latency",
+        "Outlier AI":      "LLM evaluation, adversarial prompting, RLHF data quality",
+        "D-Town Robotics": "UAV telemetry automation → 50% less manual analysis",
+    }
+
+    certified  = ["AWS ML Engineer – Associate", "AWS Data Engineer – Associate",
+                  "AWS AI Practitioner", "AWS Cloud Practitioner"]
+
+    loves      = ["distributed backends", "infra as code", "LLMs that check their own work"]
+    open_to    = "6-month SDE / Backend / Platform / GenAI internships · Jan 2027 · NCR or remote"
+```
+
+<br/>
+
+## ⚡ Now building: **SPECForge v2**
+
+<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5nejltNDdhMDQ0bGpxcnN3Y204bWNzMnpubW9yc2pna2xkYmkzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="coding" />
+
+An AI platform that turns a one-paragraph product brief into a **complete, connected software blueprint**: requirements, user stories, modules, REST APIs, DB entities, test cases and a risk register.
+
+- 🧠 **Self-checking generation:** a rule engine plus sentence-embedding and NLI models catch duplicates and contradictions, then score every blueprint
+- 🕸️ **Graph, not a document:** change one requirement and the impact propagates to every linked story, API, table and test
+- 🚀 **Production-grade:** FastAPI · Celery/Redis · Postgres + pgvector · Docker · Kubernetes · Terraform · GitHub Actions · AWS
+
+<br clear="right"/>
+
+```mermaid
+flowchart LR
+    A["📝 Product brief"] --> B["🤖 LLM generator"]
+    B --> C[("🕸️ Blueprint graph<br/>reqs · stories · APIs · tables · tests")]
+    C --> D{"🛡️ Verifier"}
+    D -->|rules| E["Deterministic checks"]
+    D -->|ML| F["Embeddings + NLI"]
+    E --> G["📊 Quality score"]
+    F --> G
+    C -.->|change impact| C
+```
+
+<br/>
+
+## 🧪 Things I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ VARI UAV Crop-Health App</h3>
+      Offline Android app that computes crop-health indices from drone imagery with on-device TensorFlow inference.<br/><br/>
+      <code>Kotlin</code> <code>TensorFlow</code> <code>OpenCV</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 RL Tactical Simulation</h3>
+      Multi-agent tactical game comparing Q-learning agent strategies, with CSV analytics and performance graphs.<br/><br/>
+      <code>Python</code> <code>Q-learning</code> <code>Pygame</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 AFS Training Academy</h3>
+      Production web app shipped for a real client; cut page load time by 30%.<br/><br/>
+      <code>React</code> <code>Flask</code> <code>REST</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖱️ Auto-Clicker</h3>
+      Open-source, cross-platform multithreaded utility. I triage issues and review community PRs.<br/><br/>
+      <code>Python</code> <code>Multithreading</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Toolbox
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohumcs&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohumcs&layout=compact&hide_border=true&theme=transparent" height="160" />
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,kotlin&theme=dark" />
+  <br/><br/>
+  <b>Backend & Data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,flask,postgres,redis,react&theme=dark" />
+  <br/><br/>
+  <b>Cloud & DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,githubactions,linux,git&theme=dark" />
+  <br/><br/>
+  <b>AI / ML</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </p>
- 
+
+<br/>
+
+## 📈 Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohumcs&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sohumcs&theme=radical&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohumcs&bg_color=0d1117&color=ff4fd8&line=3a7bff&point=ffffff&area=true&area_color=3a7bff&hide_border=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohumcs/sohumcs/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sohumcs/sohumcs/output/github-snake.svg" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bff,100:ff4fd8&height=120&section=footer" width="100%" />
